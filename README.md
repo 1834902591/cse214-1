@@ -1,5 +1,5 @@
 # cse213
-"""C
+'''C
 #include<stdio.h>
 int main()
 {
