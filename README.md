@@ -1,4 +1,10 @@
 # cse213
 '''C
-
-  int a;
+#include<stdio.h>
+int main()
+{
+  int a = 20;
+  
+  
+  return 0;
+}
