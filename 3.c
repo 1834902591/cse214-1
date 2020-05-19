@@ -14,9 +14,6 @@ int main()
     {
         printf("%d ",a[j]);
     }
-
-
-
     return 0;
 }
 
