@@ -14,7 +14,7 @@
 
   - Array Insert
 
-  - ARRAY Update
+  - Array Update
 
   - Array Search
 
