@@ -1,6 +1,6 @@
  **Write a C program that declare an integer array length of one hundred(100){do not initialize the array }. Then write the following program.Check Overflow on each program[NB:Don’t use function & pointer]
 
-1.Scan N(take input N from user) values from user into an array.
+**1.Scan N(take input N from user) values from user into an array.
 
 LOGIC:-
  ```C           
