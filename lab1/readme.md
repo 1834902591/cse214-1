@@ -4,13 +4,13 @@
 
 LOGIC:-
 ```
-*scanf("%d",&N);
+scanf("%d",&N);
    while(scanf("%d",&a[i]) == 1){
    i++; /*scan the array*/
    
   ***OVERFLOW CHECK :
            
- *if(i > N){
+ if(i > N){
        printf("Array Overflow\n");
        break;
        }
@@ -20,7 +20,7 @@ LOGIC:-
 
 LOGIC:-
 ```
-*while(scanf("%d",&a[i])!= EOF){
+while(scanf("%d",&a[i])!= EOF){
        i++;
    }  
 ```
@@ -28,7 +28,7 @@ LOGIC:-
 
 LOGIC:-
 ```
-  *logic:-
+  
        for(i =0; i < 100; i++)
     {
         scanf("%d",&a[i]);
