@@ -1,58 +1,58 @@
  <button class="button-save large">_**LAB-1**_</button>
 
-  - ARRAY DECLARE
+  - Array Declare 
 
-  - ARRAY INITIALIZE
+  - Array Initialize
 
-  - ARRAY ACCESS
+  - Array Access
 
-  - ARRAY INPUT/OUTPUT
+  - Array INPUT/OUTPUT
 
 ---
  
  <button class="button-save large">_**LAB-2**_</button>
 
-  - ARRAY INSERT
+  - Array Insert
 
-  - ARRAY UPDATE
+  - ARRAY Update
 
-  - ARRAY SEARCH
+  - Array Search
 
-  - ARRAY DELETE
+  - Array Delete
 
 ---
 
  <button class="button-save large">_**LAB-3**_</button>
 
 
- - ARRAY MAXIMUM
+ - Array maximum
 
- - ARRAY MINIMUM
+ - Array minimum
 
- - ARRAY SUMMATION
+ - Array Summation
 
- - ARRAY AVERAGE
+ - Array Average
 
- - ARRAY STANDARD DEVIATION
+ - Array Standard Deviation
 
- - FIBONACCI NUMBER
+ - Fibonacci Number
 
 ---
 
  <button class="button-save large">_**LAB-4**_</button>
 
 
- - ARRAY COPY
+ - Array Copy
 
- - ARRAY REVERSE
+ - Array Reverse
 
- - ARRAY COMPARE
+ - Array Compare
 
- - ARRAY MERGE
+ - Array Merge
 
- - SPILT
+ - Spilt
 
- - CYLICALLY PERMUTE
+ - Cylically Permute
 
 ---
 
