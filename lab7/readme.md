@@ -91,7 +91,8 @@ return 0;
 ```
 ***Define a function to reverse the linked list .(Don't use recursion)Display both list before
     after reversing.***
-    ```C
+    
+  ```C
    node* reverse_list(node* list1){
     node *first, *current, *temp;
     first = list1;
@@ -105,10 +106,12 @@ return 0;
         current = temp;
     }
     return first;
-    }```
+    }
+  ```
 ***Copy a linked list into another linked list.
     Display both list before and after copy.(Don't use recursion)***
-    ```C
+    
+  ```C
     node* copy_list(node *list1){
  node *head2, *temp;
     temp = (node*)malloc(sizeof(node)) ;
@@ -123,7 +126,9 @@ return 0;
         temp -> next = NULL;
         list1 = list1->next;
     }
-    return head2;}```
+    return head2;
+    }
+```
 
 ***Copy a linked list into another list with a recursion function .
   Display both list before and after copy.*/
