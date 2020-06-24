@@ -63,17 +63,19 @@
 
  (USER SCAN,EOF,INSERT,UPDATE,SEARCH,DELETE,MEXIMUM/MINIMUM,SECOND MAXIMUM/MINIMUM,SUMMATION,COPY,REVERSE,COMPARE,MERGE,SPILT,CYLICALLY PERMUTE)
 
+---
  <button class="button-save large">_**LAB-6**_</button>
  
 ****LINKED LIST BASIC OPERATIONS:-
 
-     --CREATE
-     --DECLARE
-     --INITIALIZE
-     --ACCESS
-     --TRAVERSE
-     --OUTPUT
+    --CREATE
+    --DECLARE
+    --INITIALIZE
+    --ACCESS
+    --TRAVERSE
+    --OUTPUT
 
+---
  <button class="button-save large">_***LAB-7***_</button>
 
 ****LINKED LIST BASIC OPERATIONS:-
