@@ -51,9 +51,8 @@ while(temp!=NULL){
 }
 }
 ```
-***Use dynamic memory allocation to create three elements of the linked list
-   and display (only value)the complete linked list using a function.(check empty list)*
-**
+****Use dynamic memory allocation to create three elements of the linked list
+and display (only value)the complete linked list using a function.(check empty list)***
 
 ```C
  int main(){
