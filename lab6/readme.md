@@ -119,7 +119,7 @@ else
     is_empty(temp);
 }
 ```
-***/* Define a function to display the complete linked list in a reverse order
+****Define a function to display the complete linked list in a reverse order
    with a recursive function using problem 4.***
    
  ```C
