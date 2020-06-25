@@ -66,7 +66,8 @@
 ---
  <button class="button-save large">_**LAB-6**_</button>
  
-****LINKED LIST BASIC OPERATIONS:-
+****LINKED LIST BASIC OPERATIONS:-****
+
 
 -Create
     
@@ -83,7 +84,8 @@
 ---
  <button class="button-save large">_***LAB-7***_</button>
 
-****LINKED LIST BASIC OPERATIONS:-
+****LINKED LIST BASIC OPERATIONS:-****
+ 
  
 -Create
     
@@ -106,6 +108,7 @@
 
 ****LINKED LIST DELETE OPERATIONS:-****
 
+
 -Delete back
 
 -Delete Front
@@ -121,6 +124,7 @@
 <button class="button-save large">_***LAB-9***_</button>
 
 ****LINKED LIST INSERT OPERATIONS:-****
+
 
 -Insert Back
 
