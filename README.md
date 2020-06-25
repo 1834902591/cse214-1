@@ -69,17 +69,17 @@
 ****LINKED LIST BASIC OPERATIONS:-****
 
 
-  -Create
+  - Create
     
-  -Declare
+  - Declare
     
-  -Initialize
+  - Initialize
     
-  -Access
+  - Access
     
-  -Traverse
+  - Traverse
     
-  -Output
+  - Output
 
 ---
  <button class="button-save large">_***LAB-7***_</button>
@@ -87,21 +87,21 @@
 ****LINKED LIST BASIC OPERATIONS:-****
  
  
-  -Create
+- Create
     
-  -Empty
+- Empty
     
-  -Size
+- Size
     
--Front
+- Front
     
--Back
+- Back
     
--Search
+- Search
     
--Reverse
+- Reverse
     
--Merge
+- Merge
 
  ---
  <button class="button-save large">_***LAB-8***_</button>
@@ -109,15 +109,15 @@
 ****LINKED LIST DELETE OPERATIONS:-****
 
 
--Delete back
+- Delete back
 
--Delete Front
+- Delete Front
 
--Delete Value
+- Delete Value
 
--Delete At
+- Delete At
 
--Delete All/Clear
+- Delete All/Clear
 
 ---
 
@@ -126,15 +126,15 @@
 ****LINKED LIST INSERT OPERATIONS:-****
 
 
--Insert Back
+- Insert Back
 
--Insert Front
+- Insert Front
 
--Insert At
+- Insert At
 
--Insert Before
+- Insert Before
 
--Insert After
+- Insert After
 
 ---
  
