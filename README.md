@@ -69,17 +69,17 @@
 ****LINKED LIST BASIC OPERATIONS:-****
 
 
--Create
+  -Create
     
--Declare
+  -Declare
     
--Initialize
+  -Initialize
     
--Access
+  -Access
     
--Traverse
+  -Traverse
     
--Output
+  -Output
 
 ---
  <button class="button-save large">_***LAB-7***_</button>
@@ -87,11 +87,11 @@
 ****LINKED LIST BASIC OPERATIONS:-****
  
  
--Create
+  -Create
     
--Empty
+  -Empty
     
--Size
+  -Size
     
 -Front
     
