@@ -36,5 +36,100 @@ return head;
    Take input n And value from user.(Check index out of range)[Let, for the first element n=1]***
    
    ```C
-   
+ node* insert_at(node *temp, int key, int value){
+node *prev, *head=temp, *new_node;
+int n=1;
+if(key<1 || key>4){
+    printf("index out of  range\n");
+    return temp;
+}
+if(key==1){
+new_node=(node*)malloc(sizeof(node));
+new_node->value=value;
+new_node->next=temp;
+return new_node;
+}
+
+while(temp){
+prev=temp;
+if(n==key){
+new_node=(node*)malloc(sizeof(node));
+new_node->value=value;
+new_node->next=temp->next;
+prev->next=new_node;
+return head;
+}
+n++;
+temp=temp->next;
+}
+printf("Invalid Index\n");
+return head;
+}
+```
+***Implement an "insert after" function to insert an element after a node with a value key of the linked list.Take input key  And new node value from user.(Check index out of range)***
+
+```C
+node* insert_after(node *temp, int key, int value)
+{
+    node *head = temp;
+    int i = 0;
+    while(temp){
+        if(temp->value == key){
+            node *new_node = (node*) malloc(sizeof (node) );
+            new_node->value = value;
+            new_node->next = temp->next;
+            temp->next = new_node;
+            i++;
+            return head;
+        }
+        temp = temp->next;
+    }
+    if(i<1 || i>4){
+        printf("Index out of range\n");
+        printf("Element Not Found\n");
+    }
+    else
+        printf("Element Not Found\n");
+    return head;
+}
+```
+***Implement an "insert before" function to insert an element after a node with a value key of the linked list.Take input key  And new node value from user.(Check index out of range)***
+
+```C
+node* insert_before(node *temp, int key, int value){
+    node *prev, *head = temp;
+    int i = 0;
+    int j = 0;
+    while(temp){
+        if(temp->value == key){
+            if(temp == head){
+                node *new_node = (node*) malloc(sizeof(node*)) ;
+                new_node->value = value;
+                new_node->next = temp;
+                i++;
+                return new_node;
+            }
+            else
+            {
+                node *new_node = (node*) malloc(sizeof(node*));
+                new_node->value = value;
+                new_node->next = temp;
+                prev->next = new_node;
+                j++;
+                return head;
+            }
+        }
+        prev = temp;
+        temp = temp->next;
+    }
+    if(i < 1 || i > 4 || j < 1 || j > 4){
+        printf("Index out of range\n");
+        printf("Element Not Found\n");
+    }
+    else
+        printf("Element Not Found\n");
+    return head;
+}
+```
+
 
