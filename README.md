@@ -137,6 +137,18 @@
 - Insert After
 
 ---
- 
+  <button class="button-save large">_**LAB-10**_</button>
+**DOUBLE WAY CIRCULAR LINKED LIST:-**
+
+- Dispaly
+- Empty
+- Size
+- Front 
+- Back
+- Push Front
+- Push Back
+- Pop Front
+- Pop Back
+- Clear
  
 
