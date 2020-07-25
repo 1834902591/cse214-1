@@ -2,9 +2,29 @@
 
 **<INTRODUCTION:>**
 
+*Doubly circular linked list is a more complexes type of data structure in which a node contains pointers to its previous node as well as the next node. Doubly circular linked list doesn’t contain NULL in any of the node. The last node of the list contains the address of the first node of the list. The first node of the list also contains address of the last node in its previous pointer.
+
+Following functions that I have implemented:
+1.	Menu()
+2.	Display()
+3.	Front()
+4.	Back()
+5.	Size()
+6.	Empty()
+7.	Push Front()
+8.	Push Back()
+9.	Pop Front()
+10.	Pop Back()
+11.	Clear()*
+
 
 **USES:**
 
+*1.	Managing songs playlist in media player applications.
+2.	Managing shopping cart in online shopping.
+3.	Circular linked lists are useful for playing video and sound files in looping mode.
+4.	They are also a stepping stone to implementing graphs.*
+ 
 
 **CODE:**
 
